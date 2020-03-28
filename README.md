@@ -1,0 +1,2 @@
+# sinusbotScripts
+Sinusbot public scripts
